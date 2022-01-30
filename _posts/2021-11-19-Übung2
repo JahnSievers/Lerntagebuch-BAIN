@@ -1,0 +1,8 @@
+---
+title: "Übung 2"
+date: 2021-11-19
+---
+
+Thema dieser Übung war die bereits zum Ende der letzten Unterrichtseinheit angeschnittene Repositoriensoftware DSpace, wobei in diesem Fall mit der frei verfügbaren Demoversion gearbeitet wurde. Ziel dieser Übung war es nun, die bereits im Unterricht auf DSpace hochgeladenen Dokumente über eine OAI-PMH-Schnittstelle laden und auf der eigenen virtuellen Maschine speichern. Bei der OAI-PMH-Schnittstelle (Open Archives Initiative Protocol for Metadata Harvesting) handelt es sich um eine Schnittstelle, welche es erlauben soll, Metadaten leichter zu finden, abzurufen und zwischen verschiedenen Systemen auszutauschen, und welche in Archiven eine weite Verbreitung findet. 
+
+Die Übung war dabei so aufgebaut, dass die bereits im Unterricht hochgeladenen und in einer entsprechenden Collection abgelegten Daten über eine OAI-PMH-Schnittstelle abzugreifen und auf dem eigenen Rechner abzuspeichern. Dies funktionierte grundsätzlich gut, es war allerdings aufgrund einer gewissen Verzögerung beim Lösen der Übung nötig, die Daten neu auf DSpace hochzuladen, was daran lag, dass in der verwendeten Demoversion jeweils am Samstag alle hochgeladenen Daten gelöscht werden. 
